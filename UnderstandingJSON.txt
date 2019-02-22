@@ -1,0 +1,42 @@
+ # https://www.cleancss.com/json-editor/
+ 
+ Demo Template
+ 
+ {
+  "postTitle": "this is a test",
+  "body": "hello world",
+  "postId": 12,
+  "isPublished": true,
+  "tags": [
+    "item1",
+    "item2",
+    "item3"
+  ],
+  "publishDate": "null",
+  "relatedPosts": [
+    {
+      "postTitle": "this is a test2",
+      "body": "hello world",
+      "postId": 12,
+      "isPublished": true,
+      "tags": [
+        "item1",
+        "item2",
+        "item3"
+      ]
+    },
+    {
+      "postTitle": "this is a test3",
+      "body": "hello world",
+      "postId": 12,
+      "isPublished": true,
+      "tags": [
+        "item1",
+        "item2",
+        "item3"
+      ]
+    }
+  ]
+}
+
+# then paste this into https://jsonformatter.curiousconcept.com/
